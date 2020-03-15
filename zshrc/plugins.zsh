@@ -6,6 +6,9 @@ zplug "zsh-users/zsh-autosuggestions"
 
 zplug "plugins/extract", from:oh-my-zsh
 zplug "plugins/zsh_reload", from:oh-my-zsh
+zplug "plugins/autojump", from:oh-my-zsh
+zplug "plugins/fzf", from:oh-my-zsh
+
 
 zplug "themes/ys", from:oh-my-zsh, as:theme
 

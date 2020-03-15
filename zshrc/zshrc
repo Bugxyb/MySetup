@@ -1,3 +1,5 @@
+ #[ -f ~/.fzf.sh ] && source ~/.fzf.sh
+
 source ~/.config/zshrc/plugins.zsh
 source ~/.config/zshrc/fzf.zsh
 source ~/.config/zshrc/env.zsh
