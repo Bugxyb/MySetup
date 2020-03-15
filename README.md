@@ -7,4 +7,5 @@ My Setup For config
 #Add to ~/.zshrc
 source ~/.config/zshrc/zshrc
 ```
+* Ranger
 * Others
